@@ -1,1 +1,0 @@
-# sandeepta-gouda
