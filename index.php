@@ -1,4 +1,4 @@
-GET https://www.fast2sms.com/dev/bulk
+
 
 <?php
           
